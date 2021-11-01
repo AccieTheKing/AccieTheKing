@@ -1,2 +1,1 @@
-# projectAccieTheKing
-Hello me
+[![Acdaling's GitHub stats](https://github-readme-stats.vercel.app/api?username=accietheking)]
