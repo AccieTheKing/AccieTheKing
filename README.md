@@ -1,2 +1,3 @@
-![Acdaling's GitHub stats](https://github-readme-stats.vercel.app/api?username=accietheking&show_icons=true&theme=tokyonight) [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=accietheking)
+![Acdaling's GitHub stats](https://github-readme-stats.vercel.app/api?username=accietheking&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
