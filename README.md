@@ -15,6 +15,20 @@
 ## Subjects to learn more about
 - Python
 - Ai
+- GraphQL
+- Java (Spring Boot) -> Did some projects with it, but not enough to be confident in it
 - Software architecture
 - Software design patterns
 - Software development methodologies
+- Agile methodologies (Scrum, Kanban) -> I know the basics, but not enough to be confident in it
+
+## Currently working on
+- WordPress projects
+- Apps (React native, PWAs and more)
+- API's (REST)
+
+## Concepts applied in my projects
+- Object Oriented Programming (OOP)
+- Model View Controller (MVC)
+- Note taking, documentation and code comment practices
+- Version control (Git)
