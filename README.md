@@ -22,6 +22,9 @@
 - Software development methodologies
 - Agile methodologies (Scrum, Kanban) -> I know the basics, but not enough to be confident in it
 
+## Other projects
+- Rasberry pi projects: Magic mirror[(https://magicmirror.builders/)]
+
 ## Currently working on
 - WordPress projects
 - Apps (React native, PWAs and more)
