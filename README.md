@@ -13,7 +13,6 @@
 - [ ] Add more stats 
 
 ## Subjects to learn more about
-- Python
 - Ai
 - GraphQL
 - Java (Spring Boot) -> Did some projects with it, but not enough to be confident in it
@@ -27,6 +26,7 @@
 
 ## Currently working on
 - WordPress projects
+- MVP builder
 - Apps (React native, PWAs and more)
 - API's (REST)
 
