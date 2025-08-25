@@ -17,6 +17,7 @@
 - GraphQL
 - Java (Spring Boot) -> Did some projects with it, but not enough to be confident in it
 - Software architecture
+  - I've finally rent a VPS to serve my own projects (docker, CI/CD pipelines)
 - Software design patterns
 - Software development methodologies
 - Agile methodologies (Scrum, Kanban) -> I know the basics, but not enough to be confident in it
