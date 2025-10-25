@@ -19,11 +19,10 @@
 - Software architecture
   - I've finally rent a VPS to serve my own projects (docker, CI/CD pipelines)
 - Software design patterns
-- Software development methodologies
+- Software development methodologies (DDD -> Domain Driven Design)
+- - Rasberry pi projects: Magic mirror[(https://magicmirror.builders/)]
 - Agile methodologies (Scrum, Kanban) -> I know the basics, but not enough to be confident in it
 
-## Other projects
-- Rasberry pi projects: Magic mirror[(https://magicmirror.builders/)]
 
 ## Currently working on
 - WordPress projects (eg: https://pb21.nl/)
