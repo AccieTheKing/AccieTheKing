@@ -26,9 +26,9 @@
 - Rasberry pi projects: Magic mirror[(https://magicmirror.builders/)]
 
 ## Currently working on
-- WordPress projects
-- MVP builder
-- Apps (React native, PWAs and more)
+- WordPress projects (eg: https://pb21.nl/)
+- MVP builder (https://micro-spark.acdaling.me/)
+- Apps (React native, PWAs and more) -> coming soon!
 - API's (REST)
 
 ## Concepts applied in my projects
