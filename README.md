@@ -29,7 +29,7 @@
 - WordPress projects (eg: https://pb21.nl/)
 - MVP builder (https://micro-spark.acdaling.me/)
 - Apps (React native, PWAs and more) -> coming soon!
-- API's (REST)
+- API's (REST) -> Node.js and Laravel
 
 ## Concepts applied in my projects
 - Object Oriented Programming (OOP)
