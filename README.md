@@ -10,7 +10,8 @@
 ## Github todo list
 - [ ] Add more projects
 - [ ] Add more languages
-- [ ] Add more stats 
+- [ ] Add more stats
+- [ ] Finish my portfolio, with more than only my projects. Trying to explain what I do and what I'm the best in!
 
 ## Subjects to learn more about
 - Ai
