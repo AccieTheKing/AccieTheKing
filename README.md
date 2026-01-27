@@ -1,4 +1,4 @@
-[![GitHub Card](https://githubcard.com/AccieTheKing.svg?d=jQXlVvmS)](https://github.com/AccieTheKing)
+![GitHub Card](https://images.weserv.nl/?url=https://githubcard.com/AccieTheKing.svg?d=jQXlVvmS)
 
 
 
