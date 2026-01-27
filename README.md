@@ -1,4 +1,6 @@
-![Acdaling's GitHub stats]("https://githubcard.com/AccieTheKing.svg?d=jQXlVvmS")
+[![GitHub Card](https://githubcard.com/AccieTheKing.svg?d=jQXlVvmS)](https://github.com/AccieTheKing)
+
+
 
 ## Programming languages I know
 - PHP / Laravel
