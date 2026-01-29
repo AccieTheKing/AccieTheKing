@@ -1,6 +1,3 @@
-![GitHub Card](https://images.weserv.nl/?url=https://githubcard.com/AccieTheKing.svg?d=jQXlVvmS)
-
-
 
 ## Programming languages I know
 - PHP / Laravel
@@ -36,6 +33,7 @@
 - API's (REST) -> Node.js and Laravel (Need to make more use of laravel, it has everything I need)
 
 ## Concepts applied in my projects
+- Containerization
 - Object Oriented Programming (OOP)
 - Model View Controller (MVC)
 - Note taking, documentation and code comment practices (A very big fan of Notion (not sponsored, yet I think..))
