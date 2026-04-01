@@ -7,10 +7,10 @@
 - Kotlin (Very little knowlegde, worked with it a bit)
 
 ## Github todo list
-- [ ] Add more projects
+- [x] Add more projects
+- [x] Finish my portfolio, with more than only my projects. Trying to explain what I do and what I'm the best in!
 - [ ] Add more languages
 - [ ] Add more stats
-- [ ] Finish my portfolio, with more than only my projects. Trying to explain what I do and what I'm the best in!
 
 ## Subjects to learn more about
 - Ai
@@ -28,7 +28,6 @@
 
 ## Currently working on
 - WordPress projects (eg: https://pb21.nl/)
-- MVP builder (https://micro-spark.acdaling.me/) -> paused (working on something else that will also use AI in the future)
 - Apps (React native, PWAs and more) -> coming soon! (Focus is here currently)
 - API's (REST) -> Node.js and Laravel (Need to make more use of laravel, it has everything I need)
 
@@ -38,4 +37,10 @@
 - Model View Controller (MVC)
 - Note taking, documentation and code comment practices (A very big fan of Notion (not sponsored, yet I think..))
 - Version control (Git)
-  - Also have found a good book to learn more
+  - Also have found a good book to learn more about this subject
+ 
+## Used or wanted to use tools
+- StoryBook
+- Growth Book (feature flags management)
+- CodeRabbit (AI code review)
+- Docker (Containerization)
