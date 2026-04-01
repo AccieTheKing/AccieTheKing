@@ -44,3 +44,4 @@
 - Growth Book (feature flags management)
 - CodeRabbit (AI code review)
 - Docker (Containerization)
+- Sentry (Application monitoring software)
