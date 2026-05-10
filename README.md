@@ -4,7 +4,7 @@
 - JavaScript, TypeScript
 - Python (ish, very basic)
 - Java (Most of the important concepts)
-- Kotlin (Very little knowlegde, worked with it a bit)
+- Kotlin (Very little knowlegde, Picking it up again from (10th of may 2026))
 
 ## Github todo list
 - [x] Add more projects
