@@ -41,7 +41,7 @@
  
 ## Used or wanted to use tools
 - StoryBook
-- Growth Book (feature flags management)
+- PostHog (open-source, all-in-one developer and product platform used to understand user behavior, run experiments, and manage feature deployments)
 - CodeRabbit (AI code review)
 - Docker (Containerization)
 - Sentry (Application monitoring software)
