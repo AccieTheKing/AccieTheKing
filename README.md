@@ -2,8 +2,8 @@
 ## Programming languages I know
 - PHP / Laravel
 - JavaScript, TypeScript
-- Python (ish, very basic)
 - Java (Most of the important concepts)
+- Python (ish, very basic)
 - Kotlin (Very little knowlegde, Picking it up again from (10th of may 2026))
 
 ## Github todo list
