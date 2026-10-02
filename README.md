@@ -21,7 +21,6 @@
 - Software design patterns
   - Finally downloaded some good books on important software concepts
 - Software development methodologies (DDD -> Domain Driven Design)
-  - Found a mentor who was/is willing to teach me more about this (Dennis Zwart), one of the best developers that I know personally
 - - Rasberry pi projects: Magic mirror[(https://magicmirror.builders/)]
 - Agile methodologies (Scrum, Kanban) -> I know the basics, but not enough to be confident in it
 
